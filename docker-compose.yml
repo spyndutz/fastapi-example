@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  fastapi-example:
+    build: .
+    container_name: fastapi-example
+    environment:
+      - ENV=development
+    ports:
+      - "5000:5000"
+    network_mode: bridge

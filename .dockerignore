@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+.vscode
+*.pyc
+dist
+.mypy_cache
+build
+__pycache__
+.coverage
+htmlcov
+.pytest_cache
+coverage_html_report
+.env
+Dockerfile
+.gitlab-ci.yml
+docker-compose*
+README.md

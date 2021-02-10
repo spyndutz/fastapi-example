@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.vscode
+coverage_html_report
+dist
+build
+__pycache__
+.coverage
+htmlcov
+coverage_html_report
+.env
