@@ -1,3 +1,7 @@
+"""
+This module starts the server
+"""
+
 import uvicorn
 from env import server_options
 
