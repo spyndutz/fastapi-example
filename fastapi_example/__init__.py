@@ -5,7 +5,7 @@ This is FastAPI usage exmaple module
 __version__ = "0.1.0"
 
 from collections import defaultdict
-from typing import Dict, Optional 
+from typing import Dict, Optional
 
 from fastapi import FastAPI
 from pydantic import BaseModel
